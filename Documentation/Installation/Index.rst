@@ -9,7 +9,7 @@ Installation
 With Composer
 =============
 
-`composer require waldhacker/typo3-plausibleio`
+`composer require dreistromland/typo3-plausibleio`
 
 Without Composer
 ================

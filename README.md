@@ -13,7 +13,7 @@ service at [https://plausible.io](https://plausible.io) or [self-host the servic
 
 ### With Composer
 
-`composer require waldhacker/typo3-plausibleio`
+`composer require dreistromland/typo3-plausibleio`
 
 ### Without Composer
 
