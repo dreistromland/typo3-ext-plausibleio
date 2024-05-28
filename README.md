@@ -170,3 +170,12 @@ You have to manually transfer the values you entered in the extension configurat
 
 Because of [Breaking-96812-NoFrontendTypoScriptBasedTemplateOverridesInTheBackend](https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/12.0/Breaking-96812-NoFrontendTypoScriptBasedTemplateOverridesInTheBackend.html#widget-registration-using-services-yaml) you need to remove 
 the lines `$view: '@dashboard.views.widget'` from the widget configuration within the file `Configuration/Services.yaml`.
+
+### Migration from `waldhacker/typo3-plausibleio` 3.x to `dreistromland/typo3-plausibleio` 3.x
+
+[dreistrom.land AG](https://dreistrom.land) has taken over the maintenance of the extension. In this context, the package namespace was changed from `waldhacker/typo3-plausibleio` to `dreistromland/typo3-plausibleio`.
+To migrate your project to the new namespace, do something like this:
+
+```
+composer rem waldhacker/typo3-plausibleio && composer req dreistromland/typo3-plausibleio:^3.0
+```

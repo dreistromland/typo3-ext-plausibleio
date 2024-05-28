@@ -20,12 +20,13 @@ Privacy-friendly analytics integration for TYPO3 CMS with Plausible Analytics.
 
 :Authors:
    waldhacker UG (haftungsbeschränkt)
+   dreistrom.land AG
 
 :Email:
-   hello@waldhacker.dev
+   hello@dreistrom.land
 
 :Website:
-   https://waldhacker.dev
+   https://dreistrom.land
 
 :License:
    This extension documentation is published under the
