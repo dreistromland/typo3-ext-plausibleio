@@ -1,8 +1,8 @@
 {
   "name": "waldhacker-typo3-plausibleio",
   "description": "TYPO3 Extension to add dashboard widgets for plausible.io statistics.",
-  "repository": "https://github.com/waldhacker/ext-plausibleio/",
-  "readme": "https://github.com/waldhacker/ext-plausibleio/README.md",
+  "repository": "https://github.com/dreistromland/typo3-ext-plausibleio/",
+  "readme": "https://github.com/dreistromland/typo3-ext-plausibleio/README.md",
   "homepage": "https://waldhacker.dev",
   "author": "waldhacker UG (haftungsbeschränkt)",
   "version": "2.0.0",

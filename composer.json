@@ -1,17 +1,23 @@
 {
-    "name": "waldhacker/typo3-plausibleio",
+    "name": "dreistromland/typo3-plausibleio",
     "type": "typo3-cms-extension",
     "description": "Privacy-friendly analytics integration for TYPO3 CMS. Analyze your audience with Plausible Analytics and see nice dashboards with analytics data directly in the TYPO3 backend.",
     "license": ["GPL-2.0-or-later"],
-    "homepage": "https://github.com/waldhacker/ext-plausibleio/",
+    "homepage": "https://github.com/dreistromland/typo3-ext-plausibleio/",
     "support": {
-        "issues": "https://github.com/waldhacker/ext-plausibleio/issues"
+        "issues": "https://github.com/dreistromland/typo3-ext-plausibleio/issues"
     },
     "authors": [
         {
             "name": "waldhacker",
             "email": "hello@waldhacker.dev",
             "homepage": "https://waldhacker.dev",
+            "role": "Developer"
+        },
+        {
+            "name": "dreistrom.land AG",
+            "email": "hello@dreistrom.land",
+            "homepage": "https://dreistrom.land",
             "role": "Developer"
         }
     ],
