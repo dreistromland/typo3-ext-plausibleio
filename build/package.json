@@ -1,10 +1,10 @@
 {
-  "name": "waldhacker-typo3-plausibleio",
+  "name": "dreistromland-typo3-plausibleio",
   "description": "TYPO3 Extension to add dashboard widgets for plausible.io statistics.",
   "repository": "https://github.com/dreistromland/typo3-ext-plausibleio/",
   "readme": "https://github.com/dreistromland/typo3-ext-plausibleio/README.md",
-  "homepage": "https://waldhacker.dev",
-  "author": "waldhacker UG (haftungsbeschränkt)",
+  "homepage": "https://dreistrom.land",
+  "author": "dreistrom.land AG",
   "version": "2.0.0",
   "license": "GPL-2.0-or-later",
   "engines": {
