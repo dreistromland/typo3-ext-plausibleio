@@ -1,4 +1,4 @@
-[![CI](https://github.com/waldhacker/ext-plausibleio/actions/workflows/ci.yml/badge.svg)](https://github.com/waldhacker/ext-plausibleio/actions/workflows/ci.yml)
+[![CI](https://github.com/dreistromland/typo3-ext-plausibleio/actions/workflows/ci.yml/badge.svg)](https://github.com/dreistromland/typo3-ext-plausibleio/actions/workflows/ci.yml)
 
 # Privacy-friendly analytics integration for TYPO3 CMS with Plausible Analytics.
 
