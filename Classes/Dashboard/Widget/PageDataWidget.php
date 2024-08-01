@@ -63,7 +63,7 @@ class PageDataWidget implements WidgetInterface, AdditionalCssInterface, JavaScr
 
     public function renderWidgetContent(): string
     {
-        $view = $this->backendViewFactory->create($this->request, ['waldhacker/typo3-plausibleio', 'typo3/cms-dashboard']);
+        $view = $this->backendViewFactory->create($this->request, ['dreistromland/typo3-plausibleio', 'typo3/cms-dashboard']);
         $plausibleSiteId = $this->configurationService->getPlausibleSiteIdFromUserConfiguration();
 
         $view->assignMultiple([
